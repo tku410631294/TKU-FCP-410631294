@@ -1,4 +1,4 @@
-public class class0703 { //定義類別
+public class ch2_3 { //定義類別
     public static void main(String[] args) {
         int a ; //宣告變數a,但不設定值
         int b=4,sum; //宣告b和sum兩個變數,但只將b的值設為4
