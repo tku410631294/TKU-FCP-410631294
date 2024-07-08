@@ -8,6 +8,7 @@ public class hm_10 {
         System.out.print("輸入溫度");
         int F=scanner.nextInt();
         System.out.print("輸出溫度"+((F - 32) * 5/9));
+        scanner.close();
 
         
     }

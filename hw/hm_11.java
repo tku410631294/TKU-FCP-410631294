@@ -12,6 +12,7 @@ public class hm_11 {
         System.out.print("商品C");
         int c=scanner.nextInt();
         System.out.print("總價"+(a+b+c));
+        scanner.close();
 
 
         

@@ -10,7 +10,7 @@ public class hm_09 {
         System.out.print("輸入寬:");
         int b=scanner.nextInt();
         System.out.println("面積:"+(a*b));
-        
+        scanner.close();
         
         
     }
