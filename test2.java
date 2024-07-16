@@ -5,11 +5,12 @@ public class test2 {
 
     public static void main(String[] args) {
         
-        int a = 12;
-        int b = 26;
-        float k = 12.26f;
-        System.out.println((a+b));
-        System.out.println(k);
+        float a=6.8f;
+        int b= 50;
+        String c = "java";
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
 
         
 

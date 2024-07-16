@@ -1,8 +1,14 @@
+import java.util.Scanner;
+
 public class test1 {
+
     
     public static void main(String[] args) {
-        System.out.println("easy come , easy go");
-        System.out.println("practime makes perfect");
+        Scanner scanner=new Scanner(System.in);
+        int a=scanner.nextInt();
+        int b=scanner.nextInt();
+        System.out.println((a%b));
+        
         
 
     }
